@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soleen</h1>
-<h3 align="center"> Data scientist and analytics lead </h3>
+<h3 align="center"> Data Scientist and Analytics Lead </h3>
 
 - 🌱 Enthusiastic about Deep Learning, Natural Language Processing, and Data Engineering Techniques.**
 
