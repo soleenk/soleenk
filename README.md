@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soleen</h1>
-<h3 align="center">A passionate data scientist and analytics lead from Iraq</h3>
+<h3 align="center">A passionate data scientist and analytics lead </h3>
 
-- 🌱 I’m currently learning **Machine Learning, Time Series Analysis, and Advanced Python Programming**
+- 🌱 I’m passionate about **Machine Learning, Time Series Analysis, and Advanced Python Programming**
 
 - 💬 Ask me about **Data science, machine learning, and data visualization tools**
 
