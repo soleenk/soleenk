@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soleen</h1>
 <h3 align="center">A passionate data scientist and analytics lead </h3>
 
-- 🌱 I’m passionate about **Machine Learning, Time Series Analysis, and Advanced Python Programming**
+- 🌱 Enthusiastic about Deep Learning, Natural Language Processing, and Data Engineering Techniques.**
 
 - 💬 Ask me about **Data science, machine learning, and data visualization tools**
 
